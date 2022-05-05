@@ -152,6 +152,17 @@
 
 <div id="6"></div>
 
+## 🎥 데모 영상
+
+[**🔗 서비스 소개 영상 바로가기 Click !**](https://youtu.be/0q4h3c69dXg) 👈
+
+> 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
+
+<br />
+
+<div id="7"></div>
+
+
 
 
 
